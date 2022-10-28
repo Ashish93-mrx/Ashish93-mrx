@@ -1,4 +1,6 @@
-![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+<div align="center">
+<img height="200" width="900" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
+</div>
 
 <h1 align="center">Hi 👋, I'm Ashish N M</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
