@@ -1,9 +1,8 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 
 <h1 align="center">Hi 👋, I'm Ashish N M</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/AjA6.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/35/d5/54/35d554f31bd87bf3f5097830af38332b.gif">
 
 - 🔭 I’m currently working on **Anti-theft vehcile**
 
