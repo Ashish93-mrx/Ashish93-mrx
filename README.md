@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there,I'm Ashish N M  👋</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/35/d5/54/35d554f31bd87bf3f5097830af38332b.gif">
+
 
 - 🔭 I’m currently working on **Anti-theft vehicle System using IOT**
 
