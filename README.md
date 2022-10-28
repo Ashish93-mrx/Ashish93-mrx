@@ -2,8 +2,15 @@
 <img height="200" width="900" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
 </div>
 
-<h1 align="center">Hi there,I'm Ashish N M  👋</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Ashish+N +M;A+passionate+Backend+developer+from+india">
+
+</p>
+
+
 
 
 - 🔭 I’m currently working on **Anti-theft vehicle System using IOT**
