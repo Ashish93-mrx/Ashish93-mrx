@@ -13,9 +13,9 @@
 
 
 
-- 🔭 I’m currently working on **Anti-theft vehicle System using IOT**
+- 🔭 I’m currently working on **web dev**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **ashishcoorg46@gmail.com**
 
