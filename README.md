@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **web dev**
+- 🔭 I’m currently working on **web dev** (VueJS, Laravel, Mysql)
 
 - 🌱 I’m currently learning **React.js**
 
